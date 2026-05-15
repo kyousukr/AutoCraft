@@ -1,4 +1,4 @@
-# AutoCraft для Ft
+# AutoCraft для FT
 
 **Полноценный автокрафт** под базу **exosware** .
 
