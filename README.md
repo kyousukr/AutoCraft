@@ -26,7 +26,7 @@
 ### Установка
 1. Создай класс `AutoCraft.java` в пакете `ru.levin.modules.misc`
 2. Вставь туда код
-3. Зарегистрируй функцию в `FunctionRegistry`
+3. Зарегистрируй функцию в `FunctionManager`
 
 ### Версия
 **Fabric 1.21.4 | exosware**
